@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8kOzuqdzlOc=",
+  "success": true,
+  "projectFilePath": "C:\\CursosCsharp\\Dio_me\\Diome\\Diome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaof\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.AssemblyInfoInputs.cache
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.AssemblyInfo.cs
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.csproj.CoreCompileInputs.cache
+C:\CursosCsharp\Dio_me\Serializacao\bin\Debug\net9.0\Serializacao.exe
+C:\CursosCsharp\Dio_me\Serializacao\bin\Debug\net9.0\Serializacao.deps.json
+C:\CursosCsharp\Dio_me\Serializacao\bin\Debug\net9.0\Serializacao.runtimeconfig.json
+C:\CursosCsharp\Dio_me\Serializacao\bin\Debug\net9.0\Serializacao.dll
+C:\CursosCsharp\Dio_me\Serializacao\bin\Debug\net9.0\Serializacao.pdb
+C:\CursosCsharp\Dio_me\Serializacao\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.csproj.AssemblyReference.cache
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializ.2F538345.Up2Date
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.dll
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\refint\Serializacao.dll
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.pdb
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\Serializacao.genruntimeconfig.cache
+C:\CursosCsharp\Dio_me\Serializacao\obj\Debug\net9.0\ref\Serializacao.dll

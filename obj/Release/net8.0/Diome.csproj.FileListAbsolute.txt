@@ -1,0 +1,17 @@
+C:\CursosCsharp\Dio_me\Diome\bin\Release\net8.0\Diome.exe
+C:\CursosCsharp\Dio_me\Diome\bin\Release\net8.0\Diome.deps.json
+C:\CursosCsharp\Dio_me\Diome\bin\Release\net8.0\Diome.runtimeconfig.json
+C:\CursosCsharp\Dio_me\Diome\bin\Release\net8.0\Diome.dll
+C:\CursosCsharp\Dio_me\Diome\bin\Release\net8.0\Diome.pdb
+C:\CursosCsharp\Dio_me\Diome\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.csproj.AssemblyReference.cache
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.AssemblyInfoInputs.cache
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.AssemblyInfo.cs
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.csproj.CoreCompileInputs.cache
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.csproj.Up2Date
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.dll
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\refint\Diome.dll
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.pdb
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\Diome.genruntimeconfig.cache
+C:\CursosCsharp\Dio_me\Diome\obj\Release\net8.0\ref\Diome.dll
